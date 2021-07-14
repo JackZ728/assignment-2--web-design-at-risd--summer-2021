@@ -7,3 +7,14 @@ body {
 header {
   font-family: Quicksand, sans-serif;
 }
+body {
+  font-family: Quicksand, sans-serif;
+}
+ol {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
+ul {
+  margin-top: 30px;
+  margin-bottom: 60px;
+}
