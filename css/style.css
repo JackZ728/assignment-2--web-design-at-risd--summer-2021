@@ -5,12 +5,13 @@ body {
   color: white;
 }
 header {
-  font-family: Radjhani, sans-serif;
+  font-family: Rajdhani, sans-serif;
   margin-top: 80px;
   font-size: 1.3em;
+  font-weight: 300;
 }
 h2 {
-  font-family: Radjhani, sans-serif;
+  font-family: Rajdhani, sans-serif;
 }
 body {
   font-family: Rajdhani, sans-serif;
