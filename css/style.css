@@ -1,12 +1,16 @@
 body {
-  background: linear-gradient(black, #6B0000);
+  background: linear-gradient(black, #6b0000);
 }
 body {
   color: white;
 }
 header {
-  font-family: Rajdhani, sans-serif;
-  margin-top: 96px;
+  font-family: Radjhani, sans-serif;
+  margin-top: 80px;
+  font-size: 1.3em;
+}
+h2 {
+  font-family: Radjhani, sans-serif;
 }
 body {
   font-family: Rajdhani, sans-serif;
@@ -33,8 +37,8 @@ p {
   margin-right: 96px;
 }
 a {
-  color: grey;
+  color: #bfbfbf;
 }
 a:hover {
-  color: red;
+  color: #fc3f00;
 }
