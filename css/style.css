@@ -6,6 +6,7 @@ body {
 }
 header {
   font-family: Rajdhani, sans-serif;
+  margin-top: 96px;
 }
 body {
   font-family: Rajdhani, sans-serif;
@@ -17,10 +18,15 @@ ol {
 ul {
   margin-top: 30px;
   margin-bottom: 60px;
+  list-style: none;
 }
 footer {
   margin-top: 60px;
 }
 .article-one {
   margin-bottom: 60px;
+}
+p {
+  margin-left: 96px;
+  margin-right: 96px;
 }
